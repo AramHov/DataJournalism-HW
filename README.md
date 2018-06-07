@@ -40,17 +40,7 @@ We analyzed the health risks based on the following parameters:
  
  You can try all the combinations in the graph in our project page linked below and see for yourself how the various demographics parameters affect the health risks. Just click on the axis label to choose your parameter.
 
-## Sample Page
-Take a look at the resulting html page : 
-[https://rupalimayekar.github.io/DataJournalism/](https://rupalimayekar.github.io/DataJournalism/)
 
-![data_journalism](images/data-journalism.png)
-
-## References
-* Image credits : Photo by rawpixel.com from [Pexels](https://www.pexels.com/)
-* Data Sources : 
-    * [US Census Bureau](https://www.census.gov)
-    * [Center for Disease Control](https://chronicdata.cdc.gov)
 
             
 
